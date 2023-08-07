@@ -31,7 +31,9 @@ public class GenericBubbleSort<T extends Comparable<T>> {
                     swapped = true;
                 }
             }
-            if (!swapped) {break;}
+            if (!swapped) {
+                break;
+            }
         }
     }
 }
