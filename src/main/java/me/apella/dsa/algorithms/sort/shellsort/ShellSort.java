@@ -22,7 +22,7 @@ public class ShellSort {
                     j -= gap;
                 }
 
-                randomNumbers[j] = newElement;
+               randomNumbers[j] = newElement;
             }
         }
 
