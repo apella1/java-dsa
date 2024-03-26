@@ -20,6 +20,8 @@ public class Recursion {
     }
 
     public static int recursiveFactorial(int num) {
+        // breaking condition of the recursion
+        // preventing stack overflow
         if (num == 0) {
             return 1;
         }
