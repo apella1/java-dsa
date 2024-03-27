@@ -3,6 +3,7 @@ package me.apella.dsa.algorithms.recursion;
 public class Recursion {
     public static void main(String[] args) {
         System.out.println(iterativeFactorial(7));
+        System.out.println(iterativeFactorial(-7));
         System.out.println(recursiveFactorial(7));
     }
 
