@@ -1,6 +1,6 @@
 package me.apella.dsa.datastructures;
 
-public class Arrays {
+public class ArraysOverview {
     public static void main(String[] args) {
         // arrays are not dynamic - once an instance is created we cannot change the size of the array
         int[] oddNumbers = new int[7];
