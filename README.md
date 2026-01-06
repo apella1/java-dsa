@@ -5,6 +5,7 @@
 ### Easy
 
 - Contains Duplicate - Reviewed for loops, HashMap, HashSet, Arrays.stream(T).distinct().count()
+- Valid Anagram
 
 ### Medium
 
